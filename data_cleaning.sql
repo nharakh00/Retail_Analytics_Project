@@ -390,7 +390,7 @@ MODIFY region VARCHAR(10);
 ALTER TABLE customer_info
 MODIFY city VARCHAR(20);
 
--- Dropping unused columns - customer_info
+-- Dropping columns that wont be used now or in the future.
 
 SHOW TABLES;
 DESC customer_info;
@@ -416,7 +416,7 @@ FROM
 ALTER TABLE purchase_info 
 DROP COLUMN discount;
 
--- Checking for duplicates in customer_info table. Duplicate values acceptable for the other two tables
+-- Checking for duplicates.
 WITH customer_info_CTE AS(
 SELECT *, 
 ROW_NUMBER() OVER( PARTITION BY order_id, customer_name, purchase_month, purchase_year, region, city ORDER BY order_id)
@@ -426,6 +426,23 @@ FROM customer_info)
 SELECT * FROM customer_info_CTE
 WHERE row_num > 1;
 
+WITH purchase_info_CTE AS(
+SELECT *, 
+ROW_NUMBER() OVER( PARTITION BY order_id, sales, profit, discount_loss ORDER BY order_id)
+AS row_num
+FROM purchase_info)
+
+SELECT * FROM purchase_info_CTE
+WHERE row_num > 1;
+
+WITH purchased_items_CTE AS(
+SELECT *, 
+ROW_NUMBER() OVER( PARTITION BY id, category, sub_category ORDER BY id)
+AS row_num
+FROM purchased_items)
+
+SELECT * FROM purchased_items_CTE
+WHERE row_num > 1;
 
 
 
