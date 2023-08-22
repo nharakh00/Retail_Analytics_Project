@@ -1,4 +1,4 @@
-# Retail_Analytics_Project
+# Supermart Analytics
 
  ## Basic Info
 
