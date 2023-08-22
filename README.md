@@ -1,10 +1,10 @@
 # Supermart Analytics
 
 This Project has 4 parts to it. 
-1) Data Cleaning - There is a corresponding sql file to this part on this repository
-2) Data Analysis - There is a corresponding sql file to this part on this repository
+1) Data Cleaning - There is a corresponding sql file to this part on this repository.
+2) Data Analysis - There is a corresponding sql file to this part on this repository.
 3) Tableau Dashboard - https://public.tableau.com/app/profile/nicholas.harakh/viz/supermartDashboard/Dashboard1
-4) Report - On this page
+4) Report - On this page below.
  ## Basic Info
 
 Before we continue any further the following information is crucial in understanding how this data set is used to provide insights.
