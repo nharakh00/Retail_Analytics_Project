@@ -53,7 +53,7 @@ As sales and profits have nearly doubled from 2015 to 2018, and because profit m
 
 
 
- 
+![Profit Vs Sales](https://github.com/nharakh00/Retail_Analytics_Project/assets/45838914/f50e2a88-be85-45d0-9f80-3e3d6e145a9a)
 Figure 1
 
 ### Insights 
@@ -63,11 +63,11 @@ Figure 1 displays Supermart sales and profits for each month from 2015-2018. Thi
 ### Recommendations 
 Since September, November, and December are the best months for sales and profits, supermart should hold its sales and special promotions during these years. At these times, if the wholesaler offers products at discounts, I recommend stocking up and having a sale. In addition, I recommend buying more products than usual during these months.
 
- 
+![category](https://github.com/nharakh00/Retail_Analytics_Project/assets/45838914/26b91df0-a973-471b-8313-16eb512552aa) 
 Figure 2
 
 
- 
+![subcategory](https://github.com/nharakh00/Retail_Analytics_Project/assets/45838914/7a44704f-2c3a-43ed-b40a-a5dbefe8916d)
 Figure 3
 
 ## What is the optimal product assortment?
