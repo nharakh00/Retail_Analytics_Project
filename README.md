@@ -23,7 +23,7 @@ b) the Product is expiring, and they need to sell it; otherwise, they lose money
 ## Case 
 
 ### Intro
-Super Mart Grocery is a (fictional) grocery store based in India. Their Store is in the Tamil Nadu state and has customers from south, east, central, and western regions.  
+Supermart Grocery is a (fictional) grocery store based in India. Their Store is in the Tamil Nadu state and has customers from south, east, central, and western regions.  
 
 ### Questions and Stakeholders:
 
