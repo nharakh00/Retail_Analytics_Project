@@ -14,7 +14,6 @@ b) the Product is expiring, and they need to sell it; otherwise, they lose money
 
 4.	Profit margins for smaller grocery stores are higher because they make money by selling at higher prices and retaining customers.
 
-5.	The best-selling products should be placed at eye level.
 
 ## Case 
 
