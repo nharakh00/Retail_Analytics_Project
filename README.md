@@ -103,3 +103,7 @@ https://thegrocerystoreguy.com/why-do-grocery-stores-have-sales/
 
 https://www.posnation.com/blog/grocery-store-profit-margins
 
+## Data set used in this project 
+
+[
+](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset
