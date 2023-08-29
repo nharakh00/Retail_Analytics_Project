@@ -86,10 +86,10 @@ Since the categories for top selling subcategories are beverage, snacks, bakery,
 ## Which products are losing the most money due to discounts?
 
 ### Insights
-From both Figure 3 and Figure 4, we can see that money lost due to discount roughly corresponds with profits for both categories and subcategories. The key things to note are that meat products and grains are losing more money than normal, and oil and masalas are losing the least.
+From both Figure 3 and Figure 4, we can see that money lost due to discounts roughly corresponds with profits for both categories and subcategories. The key things to note are that meat products and grains are losing more money than normal, and oil and masalas are losing the least.
 
 ### Recommendations
-Overall, things are okay the way they are, for the most part, as different products spoil at different rates. I recommend being more careful with meat products and grain products. The former is understandable, as meat tends to spoil quickly. However, grain products last long, and caution should be taken here. Stocking up on masala products from the data and their long shelf life is okay.
+Overall, things are okay the way they are, for the most part, as different products spoil at different rates. I recommend being more careful with meat products and grain products. The former is understandable, as meat tends to spoil quickly. However, grain products last long, and caution should be taken here. I recommend Stocking up on masala products based on the data and because of the long shelf life, this is acceptable.
 
 
 
