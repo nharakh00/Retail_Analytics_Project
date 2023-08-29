@@ -67,14 +67,14 @@ Figure 1 displays Supermart sales and profits for each month from 2015-2018. Thi
 ### Recommendations 
 Since September, November, and December are the best months for sales and profits, supermart should hold its sales and special promotions during these years. At these times, if the wholesaler offers products at discounts, I recommend stocking up and having a sale. In addition, I recommend buying more products than usual during these months.
 
+## What is the optimal product assortment?
+
 ![category](https://github.com/nharakh00/Retail_Analytics_Project/assets/45838914/26b91df0-a973-471b-8313-16eb512552aa) 
 Figure 2
 
 
 ![subcategory](https://github.com/nharakh00/Retail_Analytics_Project/assets/45838914/7a44704f-2c3a-43ed-b40a-a5dbefe8916d)
 Figure 3
-
-## What is the optimal product assortment?
 
 ### Insights 
 To determine optimal product assortment, I have chosen profits as the primary KPI because it's essential to consider revenues and expenses when deciding which products to carry. From Figure 3, we can see that the overall top categories for profit are snacks and meat products. Oils and masalas are at the bottom, and the remaining products are similar in profits. Figure 4 shows that the top 10 subcategories are products from the beverage, snacks, bakery, and edible oil categories.
